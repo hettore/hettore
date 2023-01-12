@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-![hettore GitHub Stats](https://github-readme-stats.vercel.app/api?username=hettore&show_icons=true)
-
 
 
 <!--
