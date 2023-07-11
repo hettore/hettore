@@ -6,7 +6,7 @@ Minha história com tecnologia começou bem cedo com o exemplo do meu avó mater
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hettore&show_icons=true&theme=transparent)
 |
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hettore&hide_progress=false&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hettore&layout=compact&langs_count-16&theme=transparent)
 
 
 
